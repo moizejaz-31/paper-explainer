@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# Downloaded files & scratch
+*.pdf
+*_full.txt
+*_summary.json
+scratch/
+tmp/
+.DS_Store
+Thumbs.db

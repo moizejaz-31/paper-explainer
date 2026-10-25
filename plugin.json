@@ -1,0 +1,6 @@
+{
+  "name": "paper-explainer",
+  "displayName": "Paper Explainer",
+  "version": "1.0.0",
+  "description": "Deconstructs and explains AI/ML research papers (NeurIPS, ICML, ICLR, CVPR, arXiv) with plain-English summaries, intuitive deep-dives, contributions, and future work extraction."
+}
